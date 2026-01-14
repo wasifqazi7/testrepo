@@ -2,10 +2,5 @@ Hey,
 This is gonna be my journal.
 I will document everything coding related, I have to in this journal.
 
-
-
-Damn this is empty 
-
-Damn I wrote so much
-
-change 3 from f3
+I have come a long way.
+This is a commit i am trying from Branch - new_branch
