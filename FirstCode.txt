@@ -4,3 +4,6 @@ I will document everything coding related, I have to in this journal.
 
 I have come a long way.
 This is a commit i am trying from Branch - new_branch
+
+
+Something more....
